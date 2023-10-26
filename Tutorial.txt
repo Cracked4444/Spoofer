@@ -1,0 +1,4 @@
+TUTORIAL
+1 instale o net framework 3.5 (dotNetFx35setup) espera terminar, quando terminar vai pedir pra reiniciar so da ok.
+2 quando voltar so executar o SPOOFER e Clicar Pronto seu pc ta Spoofado
+3 Use o check serial pra ver se o serial mudou depois de spoofar.
